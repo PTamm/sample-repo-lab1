@@ -2,3 +2,5 @@
 Introduction
 
 Line 1
+
+Line 2 only visible from other branch
